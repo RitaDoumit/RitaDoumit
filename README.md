@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my final uni year & side learning
-- 🌱 I’m currently learning flutter & python
-- 🤔 I’m looking for help with flutter
+- 🔭 I’m currently working at SopraBanking
+- 🌱 I’m an M1 Student at the Lebanese University
 - ⚡ Fun fact: I love music production
 
